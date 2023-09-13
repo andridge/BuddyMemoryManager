@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+/Users/ibrahimkhalilov/Documents/CS5040/F23P1starter/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
